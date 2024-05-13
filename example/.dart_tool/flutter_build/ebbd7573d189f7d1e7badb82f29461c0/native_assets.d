@@ -1,0 +1,1 @@
+ /Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/epub_view/epub_view-3.2.0/example/.dart_tool/flutter_build/ebbd7573d189f7d1e7badb82f29461c0/native_assets.yaml: 
