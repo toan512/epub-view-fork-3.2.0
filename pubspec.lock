@@ -76,9 +76,11 @@ packages:
   epubx:
     dependency: "direct main"
     description:
-      path: "packages/epubx-4.0.0"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: b6a47b2e74d25cf1d1e58e56fb5f54e08c1fae2b
+      url: "https://github.com/toan512/epubx-4.0.0.git"
+    source: git
     version: "4.0.0"
   equatable:
     dependency: "direct main"

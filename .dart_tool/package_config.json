@@ -57,7 +57,7 @@
     },
     {
       "name": "epubx",
-      "rootUri": "../packages/epubx-4.0.0",
+      "rootUri": "file:///Users/admin/.pub-cache/git/epubx-4.0.0-b6a47b2e74d25cf1d1e58e56fb5f54e08c1fae2b/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -254,7 +254,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2024-05-15T09:32:46.231977Z",
+  "generated": "2024-05-15T10:25:13.127737Z",
   "generator": "pub",
   "generatorVersion": "3.2.4"
 }
