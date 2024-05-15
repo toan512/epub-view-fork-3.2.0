@@ -17,7 +17,7 @@ dependencies:
   #   git:
   #     url : https://github.com/toan512/epubx-4.0.0.git
   epubx : 
-    path : ./plugin_fork/epubx-4.0.0
+    path : ./packages/epubx-4.0.0
   equatable: ^2.0.5
   html: ^0.15.4
   flutter_html: ^3.0.0-beta.2

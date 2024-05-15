@@ -63,7 +63,7 @@
     },
     {
       "name": "epubx",
-      "rootUri": "file:///Users/admin/.pub-cache/hosted/pub.dev/epubx-4.0.0",
+      "rootUri": "../../packages/epubx-4.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -111,7 +111,7 @@
     },
     {
       "name": "image",
-      "rootUri": "file:///Users/admin/.pub-cache/hosted/pub.dev/image-3.3.0",
+      "rootUri": "file:///Users/admin/.pub-cache/hosted/pub.dev/image-4.1.7",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -260,7 +260,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2024-03-11T13:55:04.336772Z",
+  "generated": "2024-05-15T09:32:46.286620Z",
   "generator": "pub",
   "generatorVersion": "3.2.4"
 }
